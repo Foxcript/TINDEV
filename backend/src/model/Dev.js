@@ -24,5 +24,5 @@ avatar:{
 }],
 }, {timestamps:true,
 });
-
+//ssss
 module.exports = model('Dev', DevSchema);
